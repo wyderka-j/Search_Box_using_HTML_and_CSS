@@ -1,1 +1,1 @@
-# Search_Box_using_HTML_-_CSS
+# Search_Box_using_HTML_and_CSS
